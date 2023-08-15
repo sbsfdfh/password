@@ -1,0 +1,12 @@
+# password
+12345678
+123456789
+1234567890
+111111
+pass@123
+abcd1234
+anmol123
+123123
+password
+shopno@#
+shopno
